@@ -18,4 +18,4 @@
 
 ## Important note - some limitations
 * Ensure that the default organisation(i.e, the organisation that you are located in after a successful log in, is **Trial Run**) before running the tests.
-* If you want to rerun the test cases multiple times, you'll need to specify a unique value of the the ```self.dummy_account_name``` variable under the *bankpage.py* file.
+* If you want to rerun the test cases multiple times, you'll need to specify(each time *runtests.py* is executed) a unique value of the the ```self.dummy_account_name``` variable under the *bankpage.py* file.
